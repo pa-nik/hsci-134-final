@@ -1,6 +1,6 @@
 import js as p5
 
-print('2D list of numbers:')
+print('2D list of numbers...')
 number_list = [
   [1, 2, 3, 4],
   [5, 6, 7, 8]
